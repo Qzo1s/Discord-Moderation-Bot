@@ -1,7 +1,7 @@
 {
-    "token": "NzgyMjA0NDA2OTE3MzY1Nzkw.X8Iynw.0mUDrZqoPklWswOv6N71b0qbOs4",
-    "prefix": "-",
-    "bot_name": "Slayers Mod bot",
+    "token": "TOKEN HERE",
+    "prefix": "PREFIX HERE",
+    "bot_name": "Pro Mod bot",
     "main_color": "0x2c95e6",
     "bot_owners": ["ID 1","ID 2", "ID 3" ],
 
@@ -16,10 +16,10 @@
     "whitelisted": ["ID 1","ID 2","ID 3"],
     
     "ignore_channel_toggle": true,
-    "ignore_channel_id": ["798174351865806918","CHANNEL 2 ID"],
+    "ignore_channel_id": ["CHANNEL 1 ID","CHANNEL 2 ID"],
     
     "anti_link_toggle": true,
-    "mute_role": "797753839548760085",
+    "mute_role": "ROLE ID",
 
     "command_cooldown_toggle": true,
     "command_cooldown_time": "3",
@@ -43,7 +43,7 @@
     
     "status_type": "STREAMING",
     "status_url": "https://www.twitch.tv/#",
-    "bot_status": ["Slayer coded this ","Coded by Slayer"],
+    "bot_status": ["Castilio coded this ","Coded by Castilio"],
     "status_change_interval": "2",
     
     "welcome_message_enabled": false,
